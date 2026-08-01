@@ -27,3 +27,4 @@ Document everything I learn while building practical cloud and cybersecurity ski
 ---
 
 ⭐ Updated regularly.
+Starting from July 31 2026

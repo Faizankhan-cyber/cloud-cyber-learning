@@ -1,92 +1,46 @@
-# 📘 SC-900 Learning Journey – Day 3
+# SC-900 Learning Journey - Day 3
 
-**Date:** 5 August 2026
+## What I Studied
 
-Today I completed **Module 2: Describe the Authentication Capabilities of Microsoft Entra** from Microsoft Learn.
+A Day 3 note was specifically requested after earlier Part 2 learning, but the available history does not identify the exact date or the exact units studied on Day 3.
 
-## 📚 Topics Covered
+The confirmed Part 2 sequence by this point includes completed learning for the Microsoft Entra modules. The exact mapping of each module or unit to Day 3 is Not specified, so I am not assigning topics to this day without evidence.
 
-### 🔹 Authentication Methods
-- Password authentication
-- Phone authentication (SMS & Voice)
-- OATH hardware and software tokens
-- Temporary Access Pass (TAP)
-- QR Code authentication
-- Microsoft Authenticator
-- Windows Hello for Business
-- Passkeys (FIDO2)
-- Certificate-Based Authentication (CBA)
+## Key Concepts
 
-### 🔹 Multifactor Authentication (MFA)
-- Authentication factors:
-  - Something you know
-  - Something you have
-  - Something you are
-- Microsoft Entra MFA
-- Security Defaults
+Confirmed Part 2 concepts in the available history include:
+
+- Microsoft Entra authentication methods
+- Multifactor Authentication
+- Self-Service Password Reset
+- Password protection
 - Conditional Access
-- Number Matching
-- MFA fatigue attacks
+- Global Secure Access
+- Microsoft Entra roles and RBAC
 
-### 🔹 Self-Service Password Reset (SSPR)
-- Password reset without IT support
-- Authentication methods for SSPR
-- Password Writeback
-- Account Recovery
-- Microsoft Entra Verified ID with Face Check
+Important distinctions from the confirmed learning include the difference between Microsoft Entra RBAC and Azure RBAC, and the use of Conditional Access as a Zero Trust policy engine.
 
-### 🔹 Password Protection
-- Global Banned Password List
-- Custom Banned Password List
-- Password evaluation process
-- Password spray attacks
-- On-premises password protection (Proxy Service & DC Agent)
+The exact Day 3 subset is Not specified.
 
----
+## Practice & Assessment
 
-## 🧠 Key Things I Learned
+- 10-question practice quizzes were used after learning units throughout Part 2.
+- Many practice quizzes were scored 10/10.
+- Exact Day 3 practice score: Not specified.
+- Microsoft Learn module assessment score for Day 3: Not specified.
 
-- Password-only authentication is no longer secure.
-- Microsoft recommends passwordless authentication whenever possible.
-- MFA blocks more than **99.9% of common identity attacks**.
-- Security Defaults provide free baseline identity protection.
-- Conditional Access provides advanced, policy-based access control.
-- SSPR allows users to reset passwords without contacting the help desk.
-- Password Writeback synchronizes cloud password changes to on-premises Active Directory.
-- Microsoft Entra Password Protection blocks weak passwords using global and custom banned password lists.
-- Password Spray attacks use **one password against many accounts**, unlike brute force attacks.
-- Strong passwords should always be combined with MFA.
+## Progress
 
----
+- Part 2: IN PROGRESS at this stage of the historical sequence.
+- Module 1: COMPLETED.
+- Module 2: COMPLETED.
+- Module 3: COMPLETED.
+- Exact Day 3 completion point within these modules: Not specified.
 
-## 🎯 Today's Achievement
+## What I Learned
 
-- ✅ Completed all learning units
-- ✅ Solved all practice quizzes
-- ✅ Scored **100%** in the Microsoft Learn Module Assessment
+During Part 2 I built my understanding of Microsoft Entra from identity basics into authentication and access management. I learned how authentication methods, MFA, password protection, Conditional Access, Global Secure Access, and role-based access control fit into identity security.
 
----
+## Next Step
 
-## 📈 Overall Progress
-
-### Part 1
-- ✅ Module 1 – Security, Compliance, and Identity Concepts
-- ✅ Module 2 – Identity and Access Concepts
-
-### Part 2
-- ✅ Module 1 – Introduction to Microsoft Entra
-- ✅ Module 2 – Authentication Capabilities of Microsoft Entra
-- ⏳ Module 3 – Pending
-- ⏳ Module 4 – Pending
-
-**Modules Completed:** 4
-
----
-
-## 🚀 Next Goal
-
-Tomorrow I'll complete the remaining **two modules of Part 2** and continue my SC-900 learning journey.
-
----
-
-> *"Consistency beats intensity. One module at a time, one step closer to becoming Microsoft SC-900 certified."*
+The next confirmed stage was the longer Module 4 covering identity protection and governance.

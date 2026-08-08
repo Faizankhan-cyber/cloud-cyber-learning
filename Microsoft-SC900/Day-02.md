@@ -1,78 +1,44 @@
-# Module 02 - Describe the Concepts of Identity
+# SC-900 Learning Journey - Day 2
 
-**Date:** 31 July 2026
+## What I Studied
 
-**Course:** Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+The exact date and exact Day 2 module or unit breakdown are not specified in the available learning history.
 
----
+The confirmed Part 2 sequence begins with the module "Introduction to Microsoft Entra." The history records that I completed its units and practice questions, but it does not state which of those activities happened specifically on Day 2.
 
-## Module
+## Key Concepts
 
-Describe the Concepts of Identity
+The following concepts are confirmed as part of the Part 2 Module 1 learning, but their exact Day 2 timing is Not specified:
 
----
+- Microsoft Entra and Microsoft Entra ID
+- Human, workload, and agent identities
+- Microsoft Entra Agent ID
+- Hybrid identity
+- Microsoft Entra External ID
+- B2B collaboration
+- B2B direct connect
+- Customer identity and access management
 
-## What I Learned
+A key distinction I learned was that B2B collaboration adds an external user as a guest in the organization's workforce tenant, while B2B direct connect creates a trust relationship between organizations without adding the user as a guest.
 
-### Identity
-- Identity is how users, devices, and applications prove who they are.
-- Identity has become the primary security perimeter in modern cloud environments.
+## Practice & Assessment
 
-### Authentication
-- Authentication verifies the identity of a user or service.
-- Common authentication methods include:
-  - Passwords
-  - Multi-Factor Authentication (MFA)
-  - Biometrics
-  - Security Keys
-
-### Authorization
-- Authorization determines what an authenticated user is allowed to access.
-- It follows authentication and enforces permissions.
-
-### Identity Provider (IdP)
-- An Identity Provider authenticates users and manages identities.
-- Microsoft Entra ID is Microsoft's cloud-based Identity Provider.
-
-### Single Sign-On (SSO)
-- SSO allows users to sign in once and access multiple applications.
-- It improves both security and user experience.
-
-### Multi-Factor Authentication (MFA)
-- MFA requires two or more verification methods.
-- It greatly reduces the risk of unauthorized access.
-
-### Zero Trust
-- Never trust, always verify.
-- Every access request is verified regardless of where it originates.
-
----
-
-## Key Terms
-
-- Identity
-- Authentication
-- Authorization
-- Identity Provider (IdP)
-- Microsoft Entra ID
-- Single Sign-On (SSO)
-- Multi-Factor Authentication (MFA)
-- Zero Trust
-
----
-
-## Key Takeaways
-
-- Identity is the foundation of modern security.
-- Authentication verifies who a user is.
-- Authorization controls what a user can access.
-- MFA and SSO improve both security and usability.
-- Microsoft Entra ID provides cloud-based identity and access management.
-
----
+- 10-question practice quizzes were used throughout Part 2.
+- Practice performance was consistently very high, including many 10/10 results.
+- Exact Day 2 practice score: Not specified.
+- Microsoft Learn module assessment score for this day: Not specified.
 
 ## Progress
 
-- ✅ Module Completed
-- ✅ Knowledge Check Completed
-- ✅ Ready for the next module
+- Part 1: COMPLETED before the documented Part 2 journey.
+- Part 2: Started in the documented sequence.
+- Module 1, "Introduction to Microsoft Entra": COMPLETED.
+- Exact Day 2 unit breakdown: Not specified.
+
+## What I Learned
+
+I started learning how Microsoft Entra provides identity and access capabilities. I also learned that different identity and external access models solve different problems. The difference between B2B collaboration and B2B direct connect was one of the important distinctions in this part of my learning.
+
+## Next Step
+
+The next confirmed module in the sequence was the Microsoft Entra authentication module.

@@ -1,106 +1,33 @@
-# Day 01 - Introduction to Security, Compliance, and Identity Concepts
+# SC-900 Learning Journey - Day 1
 
-**Date:** 29 July 2026
+## What I Studied
 
-**Course:** Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+The exact date, module, units, and topics studied specifically on Day 1 are not specified in the available learning history.
 
----
+The history confirms that Part 1 had already been completed before the Part 2 learning documented in the available record. It does not provide enough information to reconstruct the individual Day 1 activities without guessing.
 
-## Module
+## Key Concepts
 
-Introduction to Security, Compliance, and Identity Concepts
+- Part 1 was completed before the documented Part 2 journey.
+- The exact Part 1 concepts learned on Day 1 are Not specified.
+- The exact Part 1 module names are Not specified.
 
----
+## Practice & Assessment
 
-## What I Learned
-
-### Security Concepts
-- Learned the core principles of cybersecurity.
-- Understood the CIA Triad:
-  - **Confidentiality** – Protect data from unauthorized access.
-  - **Integrity** – Ensure data remains accurate and unaltered.
-  - **Availability** – Ensure systems and data are accessible when needed.
-
-### Defense in Depth
-- Security should be implemented in multiple layers.
-- If one layer fails, other security controls continue protecting the organization.
-- Common layers include physical security, identity, network, applications, and data.
-
-### Zero Trust
-- Zero Trust follows the principle **"Never trust, always verify."**
-- Every user, device, and application must be authenticated and authorized before access is granted.
-- Access should follow the principle of least privilege.
-
-### Shared Responsibility Model
-- Cloud providers are responsible for securing the cloud infrastructure.
-- Customers are responsible for securing their identities, data, devices, and cloud configurations.
-- Responsibilities vary depending on whether the service is IaaS, PaaS, or SaaS.
-
-### Authentication vs Authorization
-- **Authentication** verifies who a user is.
-- **Authorization** determines what a user is allowed to access after authentication.
-
----
-
-## Microsoft Concepts Covered
-
-- Zero Trust
-- Defense in Depth
-- Shared Responsibility Model
-- Authentication
-- Authorization
-- Least Privilege
-
----
-
-## Key Terms
-
-- Confidentiality
-- Integrity
-- Availability (CIA Triad)
-- Zero Trust
-- Defense in Depth
-- Authentication
-- Authorization
-- Least Privilege
-- Shared Responsibility
-- Cloud Security
-
----
-
-## Exam Tips
-
-- Understand the difference between **Authentication** and **Authorization**.
-- Know the three principles of **Zero Trust**.
-- Remember the layers of **Defense in Depth**.
-- Be familiar with customer and cloud provider responsibilities in different cloud service models.
-- Expect scenario-based questions involving the CIA Triad and Shared Responsibility Model.
-
----
-
-## Key Takeaways
-
-- Security is built on the principles of Confidentiality, Integrity, and Availability.
-- Zero Trust assumes that no user or device should be trusted automatically.
-- Multiple security layers provide stronger protection than relying on a single control.
-- Cloud security is a shared responsibility between the cloud provider and the customer.
-- Identity is one of the most important aspects of modern cloud security.
-
----
+- Practice quizzes: Not specified for Day 1.
+- Microsoft Learn module assessment: Part 1 module assessment results were completed successfully, but the Day 1 assessment score is Not specified.
+- Practice quiz scores must not be treated as Microsoft Learn module assessment scores.
 
 ## Progress
 
-- ✅ Module Completed
-- ✅ Knowledge Check: 100%
-- ✅ Module Assessment: 100%
+- Part 1: COMPLETED before the documented Part 2 journey.
+- Day 1 specific module/unit completion: Not specified.
+- Part 2: Not yet documented as started on this day.
 
----
+## What I Learned
 
-## GitHub Repository Progress
+I had already completed Part 1 before the Part 2 learning history available to me. The exact learning activities from Day 1 are not recorded in the available history, so I am keeping this note limited to what is actually confirmed.
 
-- **Modules Completed:** 1 / 21
-- **Overall Progress:** 4.8%
+## Next Step
 
-### Next Module
-
-**Describe the concepts of security, compliance, and identity**
+The next confirmed stage in the history was starting Part 2: Introduction to Microsoft Entra.

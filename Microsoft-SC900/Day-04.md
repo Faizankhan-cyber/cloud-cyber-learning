@@ -1,51 +1,45 @@
-📅 Day 4 - Microsoft Entra Access Management & Identity Governance
+# SC-900 Learning Journey - Day 4
 
-Today I completed the remaining modules of Part 2: Introduction to Microsoft Entra in my SC-900 (Microsoft Security, Compliance, and Identity Fundamentals) preparation.
+## What I Studied
 
-📚 Topics Covered
-🔹 Conditional Access
-Learned how Conditional Access works as Microsoft's Zero Trust policy engine.
-Understood the two main components:
-Assignments (Who, What, Where, When)
-Access Controls (Grant, Block, Session Controls)
-Explored Authentication Strengths:
-MFA
-Passwordless MFA
-Phishing-resistant MFA
-Learned how Conditional Access protects AI services and sensitive resources.
-🔹 Global Secure Access
-Learned about Microsoft's Security Service Edge (SSE) solution.
-Studied:
-Microsoft Entra Internet Access
-Microsoft Entra Private Access
-Internet Access for Microsoft Services
-Understood how it replaces traditional VPNs using a Zero Trust approach.
-🔹 Microsoft Entra Roles & RBAC
-Learned the difference between:
-Microsoft Entra RBAC
-Azure RBAC
-Studied built-in roles, custom roles, role assignments, and the Principle of Least Privilege.
-🔹 Microsoft Entra ID Governance
-Learned how organizations manage the entire identity lifecycle:
-Join
-Move
-Leave
-Explored:
-Lifecycle Workflows
-Dynamic Groups
-Entitlement Management
-Access Reviews
-Privileged Identity Management (PIM)
-Learned how governance is now extended to AI Agent identities.
-🎯 Key Takeaways
-Zero Trust starts with verifying every access request.
-Users should receive only the permissions they need.
-Identity Governance automates user lifecycle management and access reviews.
-PIM minimizes security risks by providing Just-in-Time (JIT) privileged access.
-Microsoft Entra continues evolving to secure not only users and devices but also AI agents.
-📊 Progress
-✅ Part 1 Completed
-✅ Part 2 Completed
-🔄 Next Step: Revise Parts 1 & 2, then begin Part 3 – Introduction to Microsoft Security Solutions
+A Day 4 note was specifically requested during Module 4, the longer module covering Microsoft Entra identity protection and governance. The exact date and exact unit-by-unit Day 4 breakdown are not specified in the available history.
 
-Every module reinforces how critical identity has become in modern cybersecurity. It's interesting to see how Microsoft builds everything around the Zero Trust model, where every identity, device, application, and even AI agent must continuously prove it's trustworthy before gaining access.
+The confirmed Module 4 learning covered identity governance, access reviews, entitlement management, Privileged Identity Management, Microsoft Entra ID Protection, Microsoft Entra Verified ID, and Microsoft Entra with Microsoft Security Copilot.
+
+## Key Concepts
+
+- Identity governance and identity lifecycle
+- Access Reviews
+- Entitlement Management and access packages
+- Privileged Identity Management (PIM)
+- Sign-in risk versus user risk
+- Microsoft Entra Verified ID and the issuer, user, and verifier model
+- Microsoft Security Copilot with Microsoft Entra
+- Conditional Access Optimization Agent
+- Identity Risk Management Agent
+
+I learned that sign-in risk is associated with a particular sign-in, while user risk represents the probability that a user's identity has been compromised.
+
+## Practice & Assessment
+
+- Part 2 used 10-question practice quizzes after learning units.
+- Practice performance was consistently very high, including many 10/10 results.
+- Exact Day 4 practice score: Not specified.
+- Microsoft Learn Module 4 assessment: 100%.
+
+## Progress
+
+- Module 4: COMPLETED.
+- Module 4 assessment: 100%.
+- Part 2: COMPLETED.
+- Part 2 was explicitly confirmed as officially complete.
+- Part 3: NOT STARTED / NEXT.
+- Part 4: NOT STARTED.
+
+## What I Learned
+
+Module 4 helped me understand how identity security continues after authentication and access are established. I learned how organizations can review access, manage the identity lifecycle, control privileged access, detect identity risks, and use verified credentials. I also learned how Microsoft Security Copilot can work with Microsoft Entra information for security investigation and identity management.
+
+## Next Step
+
+My plan after completing Part 2 is to revise Part 1, revise Part 2, and then start Part 3.

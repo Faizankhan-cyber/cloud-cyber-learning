@@ -16,6 +16,7 @@ Current official skills measured: **July 20, 2026**. Always re-check the officia
 
 - [`progress-tracker.md`](progress-tracker.md) — official objectives and evidence-based status
 - [`revision-tracker.md`](revision-tracker.md) — mistakes, weak areas, and revision priorities
+- [`diagnostic-results-2026-10-17.md`](diagnostic-results-2026-10-17.md) — 50-question practice diagnostic, result, missed concepts, and revision priorities
 - [`lab-log.md`](lab-log.md) — hands-on tasks, verification, and resource cleanup
 
 ## Study rules
@@ -38,6 +39,7 @@ Current official skills measured: **July 20, 2026**. Always re-check the officia
 
 - Date journal initialized: 2026-10-17
 - DataCamp Microsoft Azure Fundamentals course: completed, according to my study record; objective-by-objective coverage and retention still need assessment.
+- Most recent practice diagnostic (2026-10-17): **46/50 (92%)** on a 50-question quiz. See the [diagnostic report](diagnostic-results-2026-10-17.md). This is practice evidence, not an official exam result or proof of exam readiness.
 - Exam readiness: **not yet assessed**.
 
 Last syllabus check: 2026-10-17. Official objectives are reproduced in the progress tracker to make gaps visible; the live Microsoft guide takes precedence if wording changes.
